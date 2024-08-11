@@ -86,4 +86,4 @@ This project is licensed under the MIT License.
 
 <h2>💖Like my work?</h2>
 
-Support us here-<p><a href="https://github.com/diwanshu2004">Diwanshu Kumar</a> <a href="https://github.com/tomerpranay">Pranay Tomer </a><a href="https://github.com/ritendahiya">Riten Dahiya</a> <a href="https://github.com/punkilbaliyan">Punkil Baliyan</a></p>
+Support us here-<p><a href="https://github.com/diwanshu2004">Diwanshu Kumar</a> <br><a href="https://github.com/tomerpranay">Pranay Tomer </a><br><a href="https://github.com/ritendahiya">Riten Dahiya</a> <br><a href="https://github.com/punkilbaliyan">Punkil Baliyan</a></p>
